@@ -120,7 +120,7 @@
     <item row="1" column="0">
      <layout class="QHBoxLayout" name="horizontalLayout_2">
       <item>
-       <widget class="QFrame" name="frame">
+       <widget class="QFrame" name="frame1">
         <property name="maximumSize">
          <size>
           <width>500</width>
