@@ -47,6 +47,9 @@
             <bold>true</bold>
            </font>
           </property>
+          <property name="styleSheet">
+           <string notr="true">color: rgb(0, 0, 0);</string>
+          </property>
           <property name="text">
            <string>Current state:</string>
           </property>
@@ -80,7 +83,7 @@
            </font>
           </property>
           <property name="styleSheet">
-           <string notr="true">color: rgb(0, 0, 255);</string>
+           <string notr="true">color: rgb(255,0,0);</string>
           </property>
           <property name="text">
            <string>2</string>
