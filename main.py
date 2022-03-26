@@ -1,4 +1,3 @@
-from curses import window
 import sys
 from PyQt5 import QtWidgets
 from PyQt5 import uic
