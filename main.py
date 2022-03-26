@@ -12,6 +12,7 @@ class MyUI(QtWidgets.QMainWindow):
         super(MyUI, self).__init__()
         uic.loadUi("mainwindow.ui", self)
         
+        # add and configure states and transitions
         self.handle_states()
         
         self.show()
